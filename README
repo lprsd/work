@@ -3,3 +3,4 @@ line 2
 line 3
 Ok this line is added in test-branch commit 1
 This line is added in the master new commit
+another change of the test branch; this time to create a merge commit;
